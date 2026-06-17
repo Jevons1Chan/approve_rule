@@ -1,0 +1,715 @@
+{
+  "expenseSnapshot": {
+    "expenseDetailList": [
+      {
+        "id": 74448708,
+        "oweAmount": 31200,
+        "writeOffId": 55072295,
+        "orderNumber": 0,
+        "payedAmount": 0,
+        "ticketAmount": 31200,
+        "costPeriodStr": "2026-04-12~2026-07-11",
+        "departmentCity": "合肥",
+        "writeOffAmount": 31200,
+        "costInvoiceType": 1,
+        "expenseDetailId": 72550896,
+        "reimburseRemark": "2026年04月12日至2026年07月11日房屋租金",
+        "relevanceNumber": "BZD2026041402063",
+        "costDetailItemId": 7,
+        "natureOfExpenses": 1,
+        "costPeriodEndDate": "2026-07-11",
+        "costDetailItemName": "租赁支出-门店房租",
+        "costInvoiceFeeRate": 9,
+        "originalCostItemId": 7,
+        "originalSupplierNo": "SC008419",
+        "bearingDepartmentId": 326391,
+        "costInvoiceTypeName": "专票",
+        "costPeriodStartDate": "2026-04-12",
+        "departmentAttribute": "自营门店",
+        "originalCostItemName": "租赁支出/门店房租",
+        "originalReportBaseId": 22937850,
+        "originalSupplierName": "安徽三里商圈商业运营管理有限公司",
+        "writeOffTicketAmount": 0,
+        "articulationTaxAmount": 2576.15,
+        "bearingDepartmentName": "国购广场店-2F",
+        "departmentAttributeId": 3,
+        "originalBearingDeptId": 326391,
+        "originalReportChannel": "pay",
+        "originalBusinessTypeId": 1362,
+        "useDepositTicketAmount": 0,
+        "bearingDepartmentCityId": 26601,
+        "originalBearingDeptName": "国购广场店-2F",
+        "originalCostInvoiceType": 1,
+        "bearingDepartmentCityName": "南京分公司",
+        "originalCostInvoiceFeeRate": 5,
+        "originalCostBearingCompanyId": 20279,
+        "originalCostBearingCompanyName": "瑞幸咖啡（合肥）有限公司",
+        "originalEnableUseStorageInvoice": 0
+      },
+      {
+        "id": 74448715,
+        "oweAmount": 46800,
+        "writeOffId": 55072302,
+        "orderNumber": 1,
+        "payedAmount": 0,
+        "ticketAmount": 46800,
+        "costPeriodStr": "2026-04-12~2026-07-11",
+        "departmentCity": "合肥",
+        "writeOffAmount": 46800,
+        "costInvoiceType": 1,
+        "expenseDetailId": 72550903,
+        "reimburseRemark": "2026年04月12日至2026年07月11日物业管理费",
+        "relevanceNumber": "BZD2026041402063",
+        "costDetailItemId": 12,
+        "natureOfExpenses": 1,
+        "costPeriodEndDate": "2026-07-11",
+        "costDetailItemName": "租赁支出-门店物业费",
+        "costInvoiceFeeRate": 6,
+        "originalCostItemId": 12,
+        "originalSupplierNo": "SC008419",
+        "bearingDepartmentId": 326391,
+        "costInvoiceTypeName": "专票",
+        "costPeriodStartDate": "2026-04-12",
+        "departmentAttribute": "自营门店",
+        "originalCostItemName": "租赁支出/门店物业费",
+        "originalReportBaseId": 22937850,
+        "originalSupplierName": "安徽三里商圈商业运营管理有限公司",
+        "writeOffTicketAmount": 0,
+        "articulationTaxAmount": 2649.06,
+        "bearingDepartmentName": "国购广场店-2F",
+        "departmentAttributeId": 3,
+        "originalBearingDeptId": 326391,
+        "originalReportChannel": "pay",
+        "originalBusinessTypeId": 1362,
+        "useDepositTicketAmount": 0,
+        "bearingDepartmentCityId": 26601,
+        "originalBearingDeptName": "国购广场店-2F",
+        "originalCostInvoiceType": 1,
+        "bearingDepartmentCityName": "南京分公司",
+        "originalCostInvoiceFeeRate": 6,
+        "originalCostBearingCompanyId": 20279,
+        "originalCostBearingCompanyName": "瑞幸咖啡（合肥）有限公司",
+        "originalEnableUseStorageInvoice": 0
+      },
+      {
+        "id": 74448722,
+        "oweAmount": 3000,
+        "writeOffId": 55072309,
+        "orderNumber": 2,
+        "payedAmount": 0,
+        "ticketAmount": 3000,
+        "costPeriodStr": "2026-04-12~2026-07-11",
+        "departmentCity": "合肥",
+        "writeOffAmount": 3000,
+        "costInvoiceType": 1,
+        "expenseDetailId": 72550910,
+        "reimburseRemark": "2026年04月12日至2026年07月11日仓库租金",
+        "relevanceNumber": "BZD2026041402063",
+        "costDetailItemId": 160,
+        "natureOfExpenses": 1,
+        "costPeriodEndDate": "2026-07-11",
+        "costDetailItemName": "租赁支出-仓库房租",
+        "costInvoiceFeeRate": 9,
+        "originalCostItemId": 160,
+        "originalSupplierNo": "SC008419",
+        "bearingDepartmentId": 326391,
+        "costInvoiceTypeName": "专票",
+        "costPeriodStartDate": "2026-04-12",
+        "departmentAttribute": "自营门店",
+        "originalCostItemName": "租赁支出/仓库房租",
+        "originalReportBaseId": 22937850,
+        "originalSupplierName": "安徽三里商圈商业运营管理有限公司",
+        "writeOffTicketAmount": 0,
+        "articulationTaxAmount": 247.71,
+        "bearingDepartmentName": "国购广场店-2F",
+        "departmentAttributeId": 3,
+        "originalBearingDeptId": 326391,
+        "originalReportChannel": "pay",
+        "originalBusinessTypeId": 1362,
+        "useDepositTicketAmount": 0,
+        "bearingDepartmentCityId": 26601,
+        "originalBearingDeptName": "国购广场店-2F",
+        "originalCostInvoiceType": 1,
+        "bearingDepartmentCityName": "南京分公司",
+        "originalCostInvoiceFeeRate": 5,
+        "originalCostBearingCompanyId": 20279,
+        "originalCostBearingCompanyName": "瑞幸咖啡（合肥）有限公司",
+        "originalEnableUseStorageInvoice": 0
+      },
+      {
+        "id": 74448729,
+        "oweAmount": 1917.37,
+        "writeOffId": 55072316,
+        "orderNumber": 3,
+        "payedAmount": 0,
+        "ticketAmount": 1917.37,
+        "costPeriodStr": "2026-03-01~2026-03-31",
+        "departmentCity": "合肥",
+        "originalBuCode": "10001",
+        "writeOffAmount": 1917.37,
+        "costInvoiceType": 1,
+        "expenseDetailId": 73100592,
+        "reimburseRemark": "3.1-3.31电费",
+        "relevanceNumber": "BZD2026041704188",
+        "costDetailItemId": 3,
+        "natureOfExpenses": 1,
+        "costPeriodEndDate": "2026-03-31",
+        "costDetailItemName": "经营支出-电费",
+        "costInvoiceFeeRate": 13,
+        "originalCostItemId": 3,
+        "originalSupplierNo": "SC008419",
+        "bearingDepartmentId": 326391,
+        "costInvoiceTypeName": "专票",
+        "costPeriodStartDate": "2026-03-01",
+        "departmentAttribute": "自营门店",
+        "originalCostItemName": "经营支出-电费",
+        "originalReportBaseId": 23047757,
+        "originalSupplierName": "安徽三里商圈商业运营管理有限公司",
+        "writeOffTicketAmount": 0,
+        "articulationTaxAmount": 220.58,
+        "bearingDepartmentName": "国购广场店-2F",
+        "departmentAttributeId": 3,
+        "originalBearingDeptId": 326391,
+        "originalReportChannel": "pay",
+        "originalBusinessTypeId": 1383,
+        "useDepositTicketAmount": 0,
+        "bearingDepartmentCityId": 26601,
+        "originalBearingDeptName": "国购广场店-2F",
+        "originalCostInvoiceType": 0,
+        "bearingDepartmentCityName": "南京分公司",
+        "originalCostInvoiceFeeRate": 0,
+        "originalCostBearingCompanyId": 20279,
+        "originalCostBearingCompanyName": "瑞幸咖啡（合肥）有限公司",
+        "originalEnableUseStorageInvoice": 0
+      },
+      {
+        "id": 74448736,
+        "oweAmount": 372,
+        "writeOffId": 55072323,
+        "orderNumber": 4,
+        "payedAmount": 0,
+        "ticketAmount": 372,
+        "costPeriodStr": "2026-03-01~2026-03-31",
+        "departmentCity": "合肥",
+        "originalBuCode": "10001",
+        "writeOffAmount": 372,
+        "costInvoiceType": 1,
+        "expenseDetailId": 73100599,
+        "reimburseRemark": "3.1-3.31水费",
+        "relevanceNumber": "BZD2026041704188",
+        "costDetailItemId": 10,
+        "natureOfExpenses": 1,
+        "costPeriodEndDate": "2026-03-31",
+        "costDetailItemName": "经营支出-水费",
+        "costInvoiceFeeRate": 9,
+        "originalCostItemId": 10,
+        "originalSupplierNo": "SC008419",
+        "bearingDepartmentId": 326391,
+        "costInvoiceTypeName": "专票",
+        "costPeriodStartDate": "2026-03-01",
+        "departmentAttribute": "自营门店",
+        "originalCostItemName": "经营支出-水费",
+        "originalReportBaseId": 23047757,
+        "originalSupplierName": "安徽三里商圈商业运营管理有限公司",
+        "writeOffTicketAmount": 0,
+        "articulationTaxAmount": 30.72,
+        "bearingDepartmentName": "国购广场店-2F",
+        "departmentAttributeId": 3,
+        "originalBearingDeptId": 326391,
+        "originalReportChannel": "pay",
+        "originalBusinessTypeId": 1383,
+        "useDepositTicketAmount": 0,
+        "bearingDepartmentCityId": 26601,
+        "originalBearingDeptName": "国购广场店-2F",
+        "originalCostInvoiceType": 0,
+        "bearingDepartmentCityName": "南京分公司",
+        "originalCostInvoiceFeeRate": 0,
+        "originalCostBearingCompanyId": 20279,
+        "originalCostBearingCompanyName": "瑞幸咖啡（合肥）有限公司",
+        "originalEnableUseStorageInvoice": 0
+      }
+    ],
+    "totalTicketAmount": 83289.37,
+    "totalWriteOffAmount": 83289.37,
+    "totalWriteOffTicket": 0,
+    "totalOweTicketAmount": 0,
+    "totalMoreTicketAmount": 0,
+    "totalNoTicketWriteOffAmount": 0,
+    "totalUsingStorageTicketAmount": 0
+  },
+  "baseInfoSnapshot": {
+    "id": 23496989,
+    "remark": "",
+    "isArchive": 0,
+    "isInvoice": 1,
+    "createTime": "2026-05-08 20:16:58",
+    "invoiceIds": "7543533,7543535,7543537,7543538,7543539",
+    "isExchange": 0,
+    "supplierNo": "SC008419",
+    "noticeNodeId": 29651,
+    "reportNumber": "BZD2026050804241",
+    "supplierName": "安徽三里商圈商业运营管理有限公司",
+    "approveStatus": "审批中",
+    "presentStatus": 1,
+    "reportChannel": "writeOff",
+    "businessTypeId": 1376,
+    "reportEmployNo": "2306010593",
+    "submitEmployNo": "2306010593",
+    "businessTypeName": "门店发票核销",
+    "presentStatusStr": "需交单",
+    "reportEmployName": "刘玉瑶",
+    "settlementNodeId": false,
+    "sourceSystemName": "费控系统",
+    "submitEmployName": "刘玉瑶",
+    "sourceSystemSymbol": "chargecontrol",
+    "verificationMethod": 5,
+    "reimbursementStatus": 2,
+    "businessSegmentsName": "门店-财务流程",
+    "reportEmployPostName": "店长",
+    "existNonSourceInvoice": false,
+    "verificationMethodStr": "中台核验",
+    "currentHandlerEmployNo": "",
+    "reportEmployDepartment": "业务北区>南京分公司>运营部>自营门店2部>区域28>国购广场店-2F",
+    "submitEmployDepartment": "业务北区>南京分公司>运营部>自营门店2部>区域28>国购广场店-2F",
+    "currentHandlerEmployName": "",
+    "reportCostBearingCompanyId": 20279,
+    "reportCostBearingCompanyName": "瑞幸咖啡（合肥）有限公司"
+  },
+  "receiverSnapshot": {
+    "totalAmount": 0
+  },
+  "invoiceSnapshotList": [
+    {
+      "bizId": 23496989,
+      "invSum": 3000,
+      "invVat": 247.71,
+      "bizCode": "BZD2026050804241",
+      "imgName": "E.pdf",
+      "imgPath": "https://img.luckincoffeecdn.com/luckyfiapi/2026/05/08/b95736d27fdd4cdfb941f3722eede7e3.pdf",
+      "invCost": 2752.29,
+      "bizSource": "1",
+      "buyerName": "瑞幸咖啡（合肥）有限公司",
+      "invoiceId": 7543533,
+      "buyerTaxno": "91340104MA2TJGPU93",
+      "invoiceNum": "26342000001163652991",
+      "sellerName": "安徽三里商圈商业运营管理有限公司",
+      "invoiceDate": "2026-04-17",
+      "invoiceType": 1,
+      "sellerTaxno": "91340104MA2T6PN98D",
+      "ticketNumber": 1,
+      "invoiceStatus": 0,
+      "lastCheckTime": "2026-05-08",
+      "invCheckStatus": 1,
+      "invoiceSubType": 31,
+      "invoiceTypeVal": "专票",
+      "invoiceLineList": [
+        {
+          "invoiceId": 7543533,
+          "invoiceLineId": 7543533,
+          "invoiceContent": "*经营租赁*房屋租赁费",
+          "invoiceLineTax": 247.71,
+          "invoiceLineAmount": 2752.29,
+          "invoiceLineTaxRate": 0.09,
+          "invoiceLineAmountTax": 3000
+        }
+      ],
+      "currentUseAmount": 3000,
+      "currentLeftAmount": 0,
+      "invCheckStatusVal": "查验成功",
+      "invoiceSubTypeVal": "全电专票",
+      "invCompletedStatus": 1,
+      "isIncludeInventory": 0,
+      "invCompletedStatusVal": "已完善"
+    },
+    {
+      "bizId": 23496989,
+      "invSum": 1481.57,
+      "invVat": 158.37,
+      "bizCode": "BZD2026050804241",
+      "imgName": "Q.pdf",
+      "imgPath": "https://img.luckincoffeecdn.com/luckyfiapi/2026/05/08/ef5c00b9c4ce47ffbfdc78256f365249.pdf",
+      "invCost": 1323.2,
+      "bizSource": "1",
+      "buyerName": "瑞幸咖啡（合肥）有限公司",
+      "invoiceId": 7543535,
+      "buyerTaxno": "91340104MA2TJGPU93",
+      "invoiceNum": "26342000001208359966",
+      "sellerName": "安徽三里商圈商业运营管理有限公司",
+      "invoiceDate": "2026-04-21",
+      "invoiceType": 1,
+      "sellerTaxno": "91340104MA2T6PN98D",
+      "ticketNumber": 1,
+      "invoiceStatus": 0,
+      "lastCheckTime": "2026-05-08",
+      "invCheckStatus": 1,
+      "invoiceSubType": 31,
+      "invoiceTypeVal": "专票",
+      "invoiceLineList": [
+        {
+          "invoiceId": 7543535,
+          "invoiceLineId": 7543535,
+          "invoiceContent": "*供电*电费",
+          "invoiceLineTax": 127.65,
+          "invoiceLineAmount": 981.92,
+          "invoiceLineTaxRate": 0.13,
+          "invoiceLineAmountTax": 1109.57
+        },
+        {
+          "invoiceId": 7543535,
+          "invoiceLineId": 7543535,
+          "invoiceContent": "*水冰雪*水费",
+          "invoiceLineTax": 30.72,
+          "invoiceLineAmount": 341.28,
+          "invoiceLineTaxRate": 0.09,
+          "invoiceLineAmountTax": 372
+        }
+      ],
+      "currentUseAmount": 1481.57,
+      "currentLeftAmount": 0,
+      "invCheckStatusVal": "查验成功",
+      "invoiceSubTypeVal": "全电专票",
+      "invCompletedStatus": 1,
+      "isIncludeInventory": 0,
+      "invCompletedStatusVal": "已完善"
+    },
+    {
+      "bizId": 23496989,
+      "invSum": 807.8,
+      "invVat": 92.93,
+      "bizCode": "BZD2026050804241",
+      "imgName": "W.pdf",
+      "imgPath": "https://img.luckincoffeecdn.com/luckyfiapi/2026/05/08/6cf1357cb58442e3ad1437b523b6172a.pdf",
+      "invCost": 714.87,
+      "bizSource": "1",
+      "buyerName": "瑞幸咖啡（合肥）有限公司",
+      "invoiceId": 7543537,
+      "buyerTaxno": "91340104MA2TJGPU93",
+      "invoiceNum": "26342000001208853871",
+      "sellerName": "安徽三里商圈商业运营管理有限公司",
+      "invoiceDate": "2026-04-21",
+      "invoiceType": 1,
+      "sellerTaxno": "91340104MA2T6PN98D",
+      "ticketNumber": 1,
+      "invoiceStatus": 0,
+      "lastCheckTime": "2026-05-08",
+      "invCheckStatus": 1,
+      "invoiceSubType": 31,
+      "invoiceTypeVal": "专票",
+      "invoiceLineList": [
+        {
+          "invoiceId": 7543537,
+          "invoiceLineId": 7543537,
+          "invoiceContent": "*供电*电费",
+          "invoiceLineTax": 92.93,
+          "invoiceLineAmount": 714.87,
+          "invoiceLineTaxRate": 0.13,
+          "invoiceLineAmountTax": 807.8
+        }
+      ],
+      "currentUseAmount": 807.8,
+      "currentLeftAmount": 0,
+      "invCheckStatusVal": "查验成功",
+      "invoiceSubTypeVal": "全电专票",
+      "invCompletedStatus": 1,
+      "isIncludeInventory": 0,
+      "invCompletedStatusVal": "已完善"
+    },
+    {
+      "bizId": 23496989,
+      "invSum": 46800,
+      "invVat": 2649.06,
+      "bizCode": "BZD2026050804241",
+      "imgName": "T.pdf",
+      "imgPath": "https://img.luckincoffeecdn.com/luckyfiapi/2026/05/08/f1d60acbdbec4bef914f5c5c783d1959.pdf",
+      "invCost": 44150.94,
+      "bizSource": "1",
+      "buyerName": "瑞幸咖啡（合肥）有限公司",
+      "invoiceId": 7543538,
+      "buyerTaxno": "91340104MA2TJGPU93",
+      "invoiceNum": "26342000001163757211",
+      "sellerName": "安徽三里商圈商业运营管理有限公司",
+      "invoiceDate": "2026-04-17",
+      "invoiceType": 1,
+      "sellerTaxno": "91340104MA2T6PN98D",
+      "ticketNumber": 1,
+      "invoiceStatus": 0,
+      "lastCheckTime": "2026-05-08",
+      "invCheckStatus": 1,
+      "invoiceSubType": 31,
+      "invoiceTypeVal": "专票",
+      "invoiceLineList": [
+        {
+          "invoiceId": 7543538,
+          "invoiceLineId": 7543538,
+          "invoiceContent": "*企业管理服务*管理费",
+          "invoiceLineTax": 2649.06,
+          "invoiceLineAmount": 44150.94,
+          "invoiceLineTaxRate": 0.06,
+          "invoiceLineAmountTax": 46800
+        }
+      ],
+      "currentUseAmount": 46800,
+      "currentLeftAmount": 0,
+      "invCheckStatusVal": "查验成功",
+      "invoiceSubTypeVal": "全电专票",
+      "invCompletedStatus": 1,
+      "isIncludeInventory": 0,
+      "invCompletedStatusVal": "已完善"
+    },
+    {
+      "bizId": 23496989,
+      "invSum": 31200,
+      "invVat": 2576.15,
+      "bizCode": "BZD2026050804241",
+      "imgName": "R.pdf",
+      "imgPath": "https://img.luckincoffeecdn.com/luckyfiapi/2026/05/08/aab64de13bc64e2e9a1e9b07901acc4c.pdf",
+      "invCost": 28623.85,
+      "bizSource": "1",
+      "buyerName": "瑞幸咖啡（合肥）有限公司",
+      "invoiceId": 7543539,
+      "buyerTaxno": "91340104MA2TJGPU93",
+      "invoiceNum": "26342000001163650786",
+      "sellerName": "安徽三里商圈商业运营管理有限公司",
+      "invoiceDate": "2026-04-17",
+      "invoiceType": 1,
+      "sellerTaxno": "91340104MA2T6PN98D",
+      "ticketNumber": 1,
+      "invoiceStatus": 0,
+      "lastCheckTime": "2026-05-08",
+      "invCheckStatus": 1,
+      "invoiceSubType": 31,
+      "invoiceTypeVal": "专票",
+      "invoiceLineList": [
+        {
+          "invoiceId": 7543539,
+          "invoiceLineId": 7543539,
+          "invoiceContent": "*经营租赁*房屋租赁费",
+          "invoiceLineTax": 2576.15,
+          "invoiceLineAmount": 28623.85,
+          "invoiceLineTaxRate": 0.09,
+          "invoiceLineAmountTax": 31200
+        }
+      ],
+      "currentUseAmount": 31200,
+      "currentLeftAmount": 0,
+      "invCheckStatusVal": "查验成功",
+      "invoiceSubTypeVal": "全电专票",
+      "invCompletedStatus": 1,
+      "isIncludeInventory": 0,
+      "invCompletedStatusVal": "已完善"
+    }
+  ],
+  "contractSnapshotList": [
+    {
+      "id": 23911060,
+      "contractNumber": "",
+      "contractTypeId": 1
+    }
+  ],
+  "shopContractExpenseSnapshot": {
+    "finance": {
+      "rent": {
+        "fees": [
+          {
+            "endDate": 1784908800000,
+            "feeType": 1,
+            "parties": [
+              {
+                "partyAName": "安徽三里商圈商业运营管理有限公司",
+                "partyBName": "瑞幸咖啡（合肥）有限公司"
+              }
+            ],
+            "contacts": {
+              "name": "洪月娥",
+              "phone": ""
+            },
+            "startDate": 1744387200000,
+            "supplierNo": "SC008419",
+            "invoiceType": "IT0001",
+            "invoiceLines": 1,
+            "supplierName": "安徽三里商圈商业运营管理有限公司",
+            "invoiceTaxRate": 5,
+            "invoiceTypeDesc": "专票",
+            "invoiceLinesDesc": "经营租赁",
+            "paymentPeriodDesc": [
+              "押2.00付3.00"
+            ],
+            "invoiceVerificationDesc": "",
+            "invoiceVerificationFiles": [
+
+            ]
+          }
+        ]
+      },
+      "water": {
+        "fees": {
+          "feeType": 8,
+          "payType": 1,
+          "contacts": {
+            "name": "余",
+            "phone": "15605692225"
+          },
+          "accountNo": "223015936621000002",
+          "paymentWay": 1,
+          "supplierNo": "SC008419",
+          "accountName": "安徽三里商圈商业运营管理有限公司",
+          "invoiceInfo": 1,
+          "invoiceItem": 1,
+          "supplierName": "安徽三里商圈商业运营管理有限公司",
+          "unitPriceDesc": "按照市政价格",
+          "paymentWayDesc": "门店请款",
+          "accordingRemark": "",
+          "invoiceInfoDesc": "发票",
+          "invoiceItemDesc": "*水冰雪*XXX",
+          "paymentFrequency": 1,
+          "accordingToPayment": 2,
+          "paymentAttachments": [
+            {
+              "url": "https://img.luckincoffeecdn.com/luckypartneradmin/2026/04/17/ccbed85444cb41f887b22a30a4362637..jpg",
+              "name": "微信图片_20260417211736_9_23.jpg"
+            }
+          ],
+          "paymentFrequencyDesc": "月付",
+          "accordingToPaymentDesc": "缴款通知单",
+          "billingPartyAttachments": [
+            {
+              "url": "https://img.luckincoffeecdn.com/luckypartneradmin/2026/04/17/db48571da84143a39f852a9c90bcade3..png",
+              "name": "屏幕截图 2026-04-17 211508.png"
+            },
+            {
+              "url": "https://img.luckincoffeecdn.com/luckypartneradmin/2026/04/17/297e578e339545539a2c3983c73cfe7c..png",
+              "name": "屏幕截图 2026-04-17 212435.png"
+            }
+          ],
+          "invoiceInformationAttachments": [
+
+          ]
+        }
+      },
+      "electricity": {
+        "fees": {
+          "feeType": 7,
+          "payType": 1,
+          "contacts": {
+            "name": "刘",
+            "phone": "15605692225"
+          },
+          "accountNo": "223015936621000002",
+          "paymentWay": 1,
+          "supplierNo": "SC008419",
+          "accountName": "安徽三里商圈商业运营管理有限公司",
+          "invoiceInfo": 1,
+          "invoiceItem": 1,
+          "supplierName": "安徽三里商圈商业运营管理有限公司",
+          "unitPriceDesc": "按照市政价格",
+          "paymentWayDesc": "门店请款",
+          "invoiceInfoDesc": "发票",
+          "invoiceItemDesc": "*供电*XXX",
+          "paymentFrequency": 1,
+          "accordingToPayment": 2,
+          "paymentAttachments": [
+            {
+              "url": "https://img.luckincoffeecdn.com/luckypartneradmin/2026/04/17/268fcada29d847e1bd949452a12673d8..jpg",
+              "name": "微信图片_20260417211736_9_23.jpg"
+            }
+          ],
+          "paymentFrequencyDesc": "月付",
+          "accordingToPaymentDesc": "缴款通知单",
+          "billingPartyAttachments": [
+            {
+              "url": "https://img.luckincoffeecdn.com/luckypartneradmin/2026/04/17/cbcf97dd12d740a886289ab5e7b06c10..png",
+              "name": "屏幕截图 2026-04-17 211508.png"
+            },
+            {
+              "url": "https://img.luckincoffeecdn.com/luckypartneradmin/2026/04/17/b6c11d8e5b2e466e8125591c19ad8f6c..png",
+              "name": "屏幕截图 2026-04-17 212435.png"
+            }
+          ],
+          "invoiceInformationAttachments": [
+
+          ]
+        }
+      },
+      "garbageCleaning": {
+        "fees": {
+          "feeType": 9,
+          "paymentWay": 2,
+          "paymentWayDesc": "无需支付"
+        }
+      },
+      "propertyManagement": {
+        "fees": [
+          {
+            "endDate": 1784908800000,
+            "feeType": 2,
+            "parties": [
+              {
+                "partyAName": "安徽三里商圈商业运营管理有限公司",
+                "partyBName": "瑞幸咖啡（合肥）有限公司"
+              }
+            ],
+            "contacts": {
+              "name": "",
+              "phone": ""
+            },
+            "startDate": 1744387200000,
+            "supplierNo": "SC008419",
+            "invoiceType": "IT0001",
+            "invoiceLines": 2,
+            "supplierName": "安徽三里商圈商业运营管理有限公司",
+            "invoiceTaxRate": 6,
+            "invoiceTypeDesc": "专票",
+            "invoiceLinesDesc": "企业管理服务",
+            "paymentPeriodDesc": [
+              "押2.00付3.00"
+            ],
+            "invoiceVerificationDesc": "",
+            "invoiceVerificationFiles": [
+
+            ]
+          }
+        ]
+      },
+      "warehouseRentItems": {
+        "fees": [
+          {
+            "endDate": 1784908800000,
+            "feeType": 3,
+            "parties": [
+              {
+                "partyAName": "安徽三里商圈商业运营管理有限公司",
+                "partyBName": "瑞幸咖啡（合肥）有限公司"
+              }
+            ],
+            "contacts": {
+              "name": "",
+              "phone": ""
+            },
+            "startDate": 1744387200000,
+            "supplierNo": "SC008419",
+            "invoiceType": "IT0001",
+            "invoiceLines": 1,
+            "supplierName": "安徽三里商圈商业运营管理有限公司",
+            "invoiceTaxRate": 5,
+            "invoiceTypeDesc": "专票",
+            "invoiceLinesDesc": "经营租赁",
+            "paymentPeriodDesc": [
+              "押2.00付3.00"
+            ],
+            "invoiceVerificationDesc": "",
+            "invoiceVerificationFiles": [
+
+            ]
+          }
+        ]
+      }
+    },
+    "shopName": "国购广场店-2F",
+    "belongCity": "合肥",
+    "shopStatus": "已开业",
+    "paymentCompany": "瑞幸咖啡（合肥）有限公司",
+    "sequenceNumber": "2941",
+    "cooperationName": "自营",
+    "belongBranchCompany": "南京分公司"
+  }
+}
